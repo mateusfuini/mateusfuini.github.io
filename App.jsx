@@ -9,7 +9,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Badge } from '@/components/ui/badge.jsx'
 import { Progress } from '@/components/ui/progress.jsx'
 import { FileText, Search, CheckCircle, AlertCircle, Home, Plus, Settings, User } from 'lucide-react'
-import logotipo from './assets/logotipo.png'
+import logotipo from './logotipo.png'
 import './App.css'
 
 // Componente da Página Inicial
