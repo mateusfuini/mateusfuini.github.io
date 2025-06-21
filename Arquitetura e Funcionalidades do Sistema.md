@@ -2,7 +2,7 @@
 
 ## 1. Visão Geral
 
-O sistema proposto visa auxiliar na elaboração de Termos de Referência (TR) para empresas públicas, garantindo a conformidade com a Lei nº 13.303/2016 (Lei das Estatais) e otimizando o processo através da pesquisa em termos de referência existentes via API do ComprasNet.
+O sistema proposto visa auxiliar na elaboração de Termos de Referência (TR) para CIJUN, garantindo a conformidade com a Lei nº 13.303/2016 (Lei das Estatais) auxiliando na escrita e otimizando o processo através da pesquisa em termos de referência existentes via API do ComprasNet.
 
 ## 2. Funcionalidades - Visão do Usuário (Elaborador do TR)
 
